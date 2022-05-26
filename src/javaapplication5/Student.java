@@ -13,6 +13,10 @@ public class Student {
 
  private String name;
  private String lname;
+
+    public String getLname() {
+        return lname;
+    }
     private int ID;
     private int mark=0;
 

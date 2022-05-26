@@ -12,6 +12,7 @@ package javaapplication5;
 public class Student {
 
  private String name;
+ private String lname;
     private int ID;
     private int mark=0;
 

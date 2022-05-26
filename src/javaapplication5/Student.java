@@ -17,6 +17,9 @@ public class Student {
     public String getLname() {
         return lname;
     }
+     public void setLname(String lname) {
+       this.lname=lname;
+    }
     private int ID;
     private int mark=0;
 
